@@ -11,7 +11,7 @@ Raspberry Pi 4 Model B 64bit
 <img width="1280" alt="截圖 2024-05-22 下午6 35 55" src="https://github.com/jhihyawang/fallin_detect/assets/157604262/23763c0a-3d94-4963-9324-b9f2288cf1e8">
 
 
-cstep1 兩台電腦的環境安裝
+## step1 兩台電腦的環境安裝
 
 建立虛擬環境 python -m venv pi
 
