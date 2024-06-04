@@ -1,7 +1,5 @@
 ## Raspberry Pi  CV 跌倒偵測
 
-<img width="1000" alt="fall" src="https://github.com/jhihyawang/fallin_detect/assets/157604262/9c2551b3-9959-4aed-ae66-894ec0b3ab09">
-
 實驗硬體：
 
 macOS M1 版本 14.4.1
