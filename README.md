@@ -1,6 +1,4 @@
-# HW7 Raspberry Pi  CV 跌倒偵測
-
-### 資管三 4110029009 王致雅
+#Raspberry Pi  CV 跌倒偵測
 
 實驗硬體：
 
@@ -44,8 +42,7 @@ macOS
     
     對外 ip：[http://172.20.10.5:5000](http://172.20.10.5:5000/)
     
-    ![20240521_15h55m20s_grim.png](HW7%20Raspberry%20Pi%20CV%20%E8%B7%8C%E5%80%92%E5%81%B5%E6%B8%AC%200521388280ab46a1979092125bcc41d2/357e8171-aef1-4b73-95dc-dbf2f1a061ff.png)
-    
+![20240521_15h30m30s_grim.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/0a82e80a-3b58-42d1-9019-de5221197ef9/ad7bff85-4608-42aa-a8ed-57fc681d93bd/185d0a69-2edb-4eda-80b3-ba1ce642e031.png)
 
 - 樹莓派 打開瀏覽器
     
