@@ -1,4 +1,4 @@
-#Raspberry Pi  CV 跌倒偵測
+## Raspberry Pi  CV 跌倒偵測
 
 <img width="1000" alt="fall" src="https://github.com/jhihyawang/fallin_detect/assets/157604262/9c2551b3-9959-4aed-ae66-894ec0b3ab09">
 
@@ -13,7 +13,7 @@ Raspberry Pi 4 Model B 64bit
 <img width="1280" alt="截圖 2024-05-22 下午6 35 55" src="https://github.com/jhihyawang/fallin_detect/assets/157604262/23763c0a-3d94-4963-9324-b9f2288cf1e8">
 
 
-## step1 兩台電腦的環境安裝
+cstep1 兩台電腦的環境安裝
 
 建立虛擬環境 python -m venv pi
 
